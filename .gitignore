@@ -1,0 +1,8 @@
+*.tfstate
+**/.terraform/
+dms
+ec2
+sql-migrations
+debezium
+start-blue-green
+bucardo
